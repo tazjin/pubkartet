@@ -1,6 +1,9 @@
 Ølkartet - Pubs in Oslo
 =======================
 
+*(Note: Github has not arrived in 2016 yet and unicode in project names is not
+supported, therefore the repository is called 'pubkartet')*
+
 This is a little side project based on my [pub map](https://www.google.com/maps/d/u/0/edit?hl=en_US&app=mp&mid=zf6W8e-nJh30.k5vc0Sh3Cl7Q).
 
 It uses [servant](https://haskell-servant.github.io/) for implementing a simple
